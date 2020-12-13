@@ -10,7 +10,7 @@
     * works.csv - works' attributes
     * norm2.mcr - two-mode network normalization Pajek macro
   
-number of works    = 375094
-number of authors  = 959851
-number of journals =  28054
-number of keywords =  97104
+number of works    = 375094;
+number of authors  = 959851;
+number of journals =  28054;
+number of keywords =  97104.
