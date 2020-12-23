@@ -11,6 +11,9 @@ https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-12-07/metada
     * years.txt - publication date
     * works.csv - works' attributes
     * norm2.mcr - two-mode network normalization Pajek macro
+  * time - temporal partitions
+    * years - publication year (0 means unknown)
+    * days - days from 2019-12-31 (contains negative values)
   
 number of works    = 375094;
 number of authors  = 959851;
